@@ -1,8 +1,75 @@
+.navbar-brand {
+    background-color: white;
+    padding-left: 50px;
+}
+
+h1 {
+    padding-left: 30px;
+    padding-top: 30px;
+}
 
 #carouselThree {
     height: fit-content;
 }
 
-img {
-    height: 200px;
+
+
+.jumbotron {
+    background-image: url("./images/caglar-araz-eqeBPrRs4lA-unsplash.jpg");
+    background-size: cover;
+    height: 60vh;
+    color: white;
+    font-size: larger;
+  }
+
+  .jumbotron h1{
+
+    font-size: 100px;
+    
+    }
+
+  .jumbotronShop {
+    background-image: url("./images/amanda-vick-zw_oaDbfzyE-unsplash.jpg");
+    background-size: 1400px;
+    background-position: 30% 20%;
+    height: 60vh;
+    color: white;
+  }
+
+  .jumbotronShop h1{
+
+    font-size: 100px;
+    
+    }
+
+  .jumbotronAbout {
+    background-image: url("./images/jeremy-bishop-KXqHt7h6ESQ-unsplash.jpg");
+    background-size: cover;
+    background-position: 40% 20%;
+    height: 60vh;
+    color: white;
+  }
+
+  .jumbotronAbout h1{
+
+    font-size: 100px;
+    
+    }
+
+.cardOne {
+    padding-top: 20px;
+    margin-left: 50px;
+}
+
+.cardTwo {
+    padding-top: 20px;
+    max-height: 50px important!;
+    padding-left: 50px;
+}
+
+.cardThree {
+    padding-top: 20px;
+    max-height: 50px important!;
+    margin-left: 50px;
+    padding: auto;
 }
