@@ -6,6 +6,7 @@
 h1 {
     padding-left: 30px;
     padding-top: 30px;
+    
 }
 
 #carouselThree {
@@ -20,6 +21,7 @@ h1 {
     height: 60vh;
     color: white;
     font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
   }
 
   .jumbotron h1{
@@ -28,19 +30,23 @@ h1 {
     
     }
 
-  .jumbotronShop {
-    background-image: url("./images/amanda-vick-zw_oaDbfzyE-unsplash.jpg");
-    background-size: 1400px;
-    background-position: 30% 20%;
+
+  .jumbotronOrder {
+    background-image: url("./images/alexandra-andersson-si4-pd-eeJs-unsplash.jpg");
+    background-size: cover;
     height: 60vh;
     color: white;
-  }
-
-  .jumbotronShop h1{
-
-    font-size: 100px;
-    
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: baseline;
+    background-position: 50% 40%;
     }
+
+    .jumbotronOrder h1{
+
+        font-size: 100px;
+        
+        }
 
   .jumbotronAbout {
     background-image: url("./images/jeremy-bishop-KXqHt7h6ESQ-unsplash.jpg");
@@ -48,6 +54,7 @@ h1 {
     background-position: 40% 20%;
     height: 60vh;
     color: white;
+    font-family: Arial, Helvetica, sans-serif;
   }
 
   .jumbotronAbout h1{
@@ -58,13 +65,17 @@ h1 {
 
 .cardOne {
     padding-top: 20px;
-    margin-left: 50px;
+    margin-left: 35px;
+    width: 34 rem;
+    
+   
 }
 
 .cardTwo {
     padding-top: 20px;
     max-height: 50px important!;
-    padding-left: 50px;
+    padding-left: 20px;
+   
 }
 
 .cardThree {
