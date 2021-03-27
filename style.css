@@ -74,7 +74,7 @@ h1 {
 .cardTwo {
     padding-top: 20px;
     max-height: 50px important!;
-    padding-left: 20px;
+    padding-left: 30px;
    
 }
 
@@ -82,5 +82,18 @@ h1 {
     padding-top: 20px;
     max-height: 50px important!;
     margin-left: 50px;
-    padding: auto;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.card {
+    line-height: 80%;
+    background-color: rgb(223, 175, 224);
+    color: black;
+    font-size: 50px;
+    font-weight: 700;
+    height: 397px;
+    padding-left: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
 }
