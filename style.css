@@ -1,3 +1,6 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
 .navbar-brand {
     background-color: white;
     padding-left: 50px;
@@ -94,6 +97,7 @@ h1 {
     font-weight: 700;
     height: 397px;
     padding-left: 20px;
+    padding-top: 40px;
     margin-left: 30px;
     margin-right: 30px;
 }
