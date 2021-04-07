@@ -22,7 +22,7 @@ h1 {
     background-image: url("./images/caglar-araz-eqeBPrRs4lA-unsplash.jpg");
     background-size: cover;
     height: 60vh;
-    color: white;
+    color: black;
     font-size: larger;
     font-family: Arial, Helvetica, sans-serif;
   }
@@ -38,7 +38,7 @@ h1 {
     background-image: url("./images/alexandra-andersson-si4-pd-eeJs-unsplash.jpg");
     background-size: cover;
     height: 60vh;
-    color: white;
+    color: black;
     font-size: larger;
     font-family: Arial, Helvetica, sans-serif;
     justify-content: baseline;
