@@ -45,6 +45,15 @@ font-size: 5em;
     font-size: 5em;
 }
 
+#aboutCard {
+    background-color:wheat;
+    background-size: cover;
+    background-position: 30% 45%;
+    color: white;
+    font-size: 5em;
+    } 
+    
+
 .cardTwo {
     padding-top: 20px;
     max-height: 50px important!;
