@@ -33,13 +33,16 @@ h1 {
 background-image: url(./images/alexandra-andersson-si4-pd-eeJs-unsplash.jpg);
 background-size: cover;
 background-position: 30% 45%;
-text-align: center;
 color: white;
 font-size: 5em;
 } 
 
 #homeCardTwo {
     padding-top: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: auto;
+    font-size: 5em;
 }
 
 .cardTwo {
