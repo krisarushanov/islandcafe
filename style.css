@@ -1,6 +1,24 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
 }
+
+.container {
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    margin: auto;
+}
+
+.row {
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    margin: auto;
+
+}
+.column {
+    width: fit-content;
+}
 .navbar-brand {
     background-color: white;
     padding-left: 50px;
@@ -9,69 +27,19 @@ body {
 h1 {
     padding-left: 30px;
     padding-top: 30px;
-    
 }
 
-#carouselThree {
-    height: fit-content;
-}
+#homeCard {
+background-image: url(./images/alexandra-andersson-si4-pd-eeJs-unsplash.jpg);
+background-size: cover;
+background-position: 30% 45%;
+text-align: center;
+color: white;
+font-size: 5em;
+} 
 
-
-
-.jumbotron {
-    background-image: url("./images/caglar-araz-eqeBPrRs4lA-unsplash.jpg");
-    background-size: cover;
-    height: 60vh;
-    color: black;
-    font-size: larger;
-    font-family: Arial, Helvetica, sans-serif;
-  }
-
-  .jumbotron h1{
-
-    font-size: 100px;
-    
-    }
-
-
-  .jumbotronOrder {
-    background-image: url("./images/alexandra-andersson-si4-pd-eeJs-unsplash.jpg");
-    background-size: cover;
-    height: 60vh;
-    color: black;
-    font-size: larger;
-    font-family: Arial, Helvetica, sans-serif;
-    justify-content: baseline;
-    background-position: 50% 40%;
-    }
-
-    .jumbotronOrder h1{
-
-        font-size: 100px;
-        
-        }
-
-  .jumbotronAbout {
-    background-image: url("./images/jeremy-bishop-KXqHt7h6ESQ-unsplash.jpg");
-    background-size: cover;
-    background-position: 40% 20%;
-    height: 60vh;
-    color: white;
-    font-family: Arial, Helvetica, sans-serif;
-  }
-
-  .jumbotronAbout h1{
-
-    font-size: 100px;
-    
-    }
-
-.cardOne {
+#homeCardTwo {
     padding-top: 20px;
-    margin-left: 35px;
-    width: 34 rem;
-    
-   
 }
 
 .cardTwo {
@@ -91,13 +59,10 @@ h1 {
 
 .card {
     line-height: 80%;
-    background-color: rgb(223, 175, 224);
+    background-color: #9DD3D6;
     color: black;
     font-size: 50px;
     font-weight: 700;
     height: 397px;
-    padding-left: 20px;
-    padding-top: 40px;
-    margin-left: 30px;
-    margin-right: 30px;
+    
 }
