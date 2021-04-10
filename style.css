@@ -78,3 +78,13 @@ font-size: 5em;
     height: 397px;
     
 }
+
+#toppingsCard {
+    text-align: center;
+    font-size: 18px;
+    height: auto;
+    width: 14rem;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 20PX;
+}
