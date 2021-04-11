@@ -71,8 +71,8 @@ font-size: 5em;
 
 .card {
     line-height: 80%;
-    background-color: #9DD3D6;
-    color: black;
+    background-color:#3dccc7;
+    color: white;
     font-size: 50px;
     font-weight: 700;
     height: 397px;
@@ -81,7 +81,7 @@ font-size: 5em;
 
 #toppingsCardOne {
     text-align: center;
-    background-color:rgb(240, 240, 146);
+    background-color: #ebde70;
     font-size: 18px;
     height: auto;
     width: 15rem;
@@ -92,7 +92,7 @@ font-size: 5em;
 
 #toppingsCardTwo {
     text-align: center;
-    background-color: rgb(247, 201, 115);
+    background-color: #f1bc8a;
     font-size: 18px;
     height: auto;
     width: 15rem;
@@ -103,7 +103,7 @@ font-size: 5em;
 
 #toppingsCardThree {
     text-align: center;
-    background-color: rgb(252, 129, 225);
+    background-color: #ec8dd8;
     font-size: 18px;
     height: auto;
     width: 15rem;
@@ -120,8 +120,8 @@ font-size: 5em;
 
 #pickyourSize {
     line-height: 80%;
-    background-color: #9DD3D6;
-    color: black;
+    background-color: #3dccc7;
+    color: white;
     font-size: 50px;
     font-weight: 700;
     margin-bottom: 20px;
