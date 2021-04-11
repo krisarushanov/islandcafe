@@ -79,11 +79,34 @@ font-size: 5em;
     
 }
 
-#toppingsCard {
+#toppingsCardOne {
     text-align: center;
+    background-color:rgb(240, 240, 146);
     font-size: 18px;
     height: auto;
-    width: 14rem;
+    width: 15rem;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 20PX;
+}
+
+#toppingsCardTwo {
+    text-align: center;
+    background-color: rgb(247, 201, 115);
+    font-size: 18px;
+    height: auto;
+    width: 15rem;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 20PX;
+}
+
+#toppingsCardThree {
+    text-align: center;
+    background-color: rgb(252, 129, 225);
+    font-size: 18px;
+    height: auto;
+    width: 15rem;
     margin-bottom: 20px;
     margin-top: 20px;
     margin-left: 20PX;
