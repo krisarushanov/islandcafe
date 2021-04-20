@@ -30,7 +30,7 @@ h1 {
 }
 
 #homeCard {
-background-image: url(./images/alexandra-andersson-si4-pd-eeJs-unsplash.jpg);
+background-image: url(./images/acaibowl.jpg);
 background-size: cover;
 background-position: 30% 45%;
 color: white;
@@ -79,7 +79,32 @@ font-size: 400%;
     
 }
 
+#menuCard {
+    background-image: url(./images/acaibowl.jpg);
+    background-size: cover;
+    background-position: 30% 45%;
+    color: white;
+    font-size: 400%;
+    margin-bottom: 5%;
+}
 
+#menuCardOne {
+    background-image: url(./images/avotoast.jpg);
+    background-size: cover;
+    background-position: 30% 45%;
+    color: white;
+    font-size: 400%;
+    margin-bottom: 5%;
+}
+
+#menuCardTwo {
+    background-image: url(./images/islandsmothie.jpg);
+    background-size: cover;
+    background-position: center;
+    color: white;
+    font-size: 400%;
+    margin-bottom: 5%;
+}
 
     h1 {
     position: absolute;
@@ -94,7 +119,7 @@ font-size: 400%;
     justify-content: center;
     align-items: center;
     height: inherit;
-    padding: 20px;
+    padding-bottom: 20px;
     }
     form {
     width: 100%;
@@ -106,7 +131,7 @@ font-size: 400%;
     .banner {
     position: relative;
     height: 300px;
-    background-image: url("./images/caglar-araz-eqeBPrRs4lA-unsplash.jpg");  
+    background-image: url("./images/coffee.jpg");  
     background-size: cover;
     display: flex;
     justify-content: center;
