@@ -79,55 +79,6 @@ font-size: 400%;
     
 }
 
-#toppingsCardOne {
-    text-align: center;
-    background-color: #2e9c99;
-    font-size: 18px;
-    height: auto;
-    width: 15rem;
-    margin-bottom: 20px;
-    margin-top: 20px;
-    margin-left: 20PX;
-}
-
-#toppingsCardTwo {
-    text-align: center;
-    background-color: #57bbb9;
-    font-size: 18px;
-    height: auto;
-    width: 15rem;
-    margin-bottom: 20px;
-    margin-top: 20px;
-    margin-left: 20PX;
-}
-
-#toppingsCardThree {
-    text-align: center;
-    background-color: #9ceaef;
-    font-size: 18px;
-    height: auto;
-    width: 15rem;
-    margin-bottom: 20px;
-    margin-top: 20px;
-    margin-left: 20PX;
-}
-
-#addYourToppings {
-    height: auto;
-    margin-top: 20px;
-    
-}
-
-#pickyourSize {
-    line-height: 80%;
-    background-color: #3dccc7;
-    color: white;
-    font-size: 50px;
-    font-weight: 700;
-    margin-bottom: 20px;
-    margin-top: 20px;
-    height: auto;
-}
 
 
     h1 {
